@@ -22,4 +22,4 @@ def run():
     charts.generate_bar_chart(country['Country'],labels, values)
 
 if __name__ == '__main__':
-  run()
+  run()   
